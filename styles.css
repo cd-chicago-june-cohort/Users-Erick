@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    margin: 0px;
+    padding: 20px;
+    overflow: hidden;
+    width: 970px;
+    height: 500px;
+}
+table,td{
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+th{
+    width: 130px;
+}
+p{
+    margin-bottom: 20px;
+}
+button{
+    margin-left: 120px;
+    height: 25px;
+    width: 100px;
+}
+#formBody{
+    padding-left: 50px;
+    text-align: center;
+    margin-right: 670px;
+}
+#email{
+    text-align: center;
+    margin-right: 20px;
+}
